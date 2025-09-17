@@ -2,7 +2,7 @@
 #    uv pip compile pyproject.toml --output-file requirements.txt --no-deps
 boto3==1.40.32
     # via dagster-and-dbt (pyproject.toml)
-dagster==1.11.8
+dagster==1.11.10
     # via dagster-and-dbt (pyproject.toml)
 dagster-cloud==1.11.10
     # via dagster-and-dbt (pyproject.toml)
